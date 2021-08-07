@@ -1,0 +1,30 @@
+.div
+{
+    font-size: 45px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px grey;
+    text-decoration: underline;
+    background-color: lemonchiffon;
+}
+.hello
+{
+    width:fit-content;
+    margin-left: 30px;
+    box-shadow: 5px 5px 5px grey;
+    padding-left: 30px;
+    padding-right: 70px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: khaki;
+}
+.footer
+{
+    position: fixed;
+    color: ghostwhite;
+    bottom: 0px;
+    width: 100%;
+    background-color: gray;
+    line-height: 3px;
+    text-align: center;
+}
